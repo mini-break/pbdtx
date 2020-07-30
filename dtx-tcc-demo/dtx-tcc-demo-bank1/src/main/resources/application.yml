@@ -18,8 +18,6 @@ server:
   servlet:
     context-path: /bank1
 
-
-    
 eureka:
   instance:
     preferIpAddress: true
